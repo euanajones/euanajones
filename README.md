@@ -23,5 +23,5 @@ Passionate about learning new things and looking forward to exploring the tech i
 </div>
 
 ## 📑My Stats📑
-[![Euan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=euanajones&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Euan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=euanajones&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euanajones&layout=compact)
+[![Euan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=euanajones&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Euan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=euanajones&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
