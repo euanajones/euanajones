@@ -1,5 +1,5 @@
 # Hi, I am Euan Jones👋
-I am a First Year Computer Science student at The University Of Sheffield.
+I am a Second Year Computer Science student at The University Of Sheffield.
 Passionate about learning new things and looking forward to exploring the tech industry.
 
 ## 💻My Current Stack💻
